@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Example1 branching.");
+    printf("Değişiklik.");
     return 0;
 }
